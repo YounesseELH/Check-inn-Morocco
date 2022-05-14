@@ -7,7 +7,7 @@ This website is a  guide to discover the beatiful Desert🏝️, snow ☃️, se
 
 ## 👨‍🦱 contributions : 
 <div>
-  <strong><h4>✅ <a href="https://github.com/ELHASSANIsaad">EL HASSANI SAAD</a></h4></strong>
+  <strong><h4>✅ <a href="https://github.com/ELHASSANIsaad">SAAD EL HASSANI</a></h4></strong>
 </div>
 <div>
   <strong><h4>✅ <a href="https://github.com/YounesseELH">YOUNESSE EL HOUB</a></h4></strong>
