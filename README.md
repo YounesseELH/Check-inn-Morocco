@@ -76,4 +76,4 @@ This website is a  guide to discover the beatiful Desert🏝️, snow ☃️, se
 
 ## 📄 License
 
-CHECK INN MOROCCO is MIT licensed, as found in the [LICENSE](https://github.com/YounesseELH/Check-inn-Morocco/blob/main/LICENSE) file.
+[CHECK INN MOROCCO](https://euphonious-centaur-dc5a8d.netlify.app) is MIT licensed, as found in the [LICENSE](https://github.com/YounesseELH/Check-inn-Morocco/blob/main/LICENSE) file.
